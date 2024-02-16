@@ -1,4 +1,4 @@
-# Desafio CEP Spring
+# Desafio Busca de CEP com Spring
 
 Este projeto é uma aplicação Spring Boot que fornece o endpoint para buscar informações de endereço com base nos códigos postais brasileiros (CEP - Código de Endereçamento Postal). Os usuários podem consultar um CEP específico e obter os detalhes do endereço correspondente.
 
